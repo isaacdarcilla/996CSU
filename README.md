@@ -5,6 +5,8 @@ Technical Support System developed under MIS
 
 We’ve created this admin panel for everyone who wants to create request for technical support. Our mission is to deliver a user-friendly, clear and easy-to-use system, that can be used by both, MIS Officers and employees of Catanduanes State University. The only requirement is a basic computer knowledge—as a reward, you’ll be able to manage and visualize different types of data in the easiest possible way!
 
+![SS](https://github.com/isaacdarcilla/SYSCSU/blob/master/1.png)
+
 Bugs and feature requests
 
 Have a bug or a feature request? [Please open a new issue](https://github.com/isaacdarcilla/SYSCSU/issues/new)
