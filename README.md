@@ -28,8 +28,7 @@ Penetration Testers & Quality Assurance
                           <li><a href="https://www.facebook.com/pajares.rickyboy?refid=18&__tn__=R">Ricky Martija Pajares</a>—reported a SQL Injection insecurity in the text/output fields.</li>
                           <li><a href="https://www.facebook.com/lazydeveloper.ph?refid=18&__tn__=R">先輩 悲しい</a>—reported XSS vulnerability and suggest a solution using <code>htmlentities()</code>.</li>
                           <li><a href="https://www.facebook.com/kenneth.regalado?refid=18&__tn__=R">Kenneth Regalado</a>—help suggest changes in the Password Reset page to minimize upto 8 characters.</li>
-                        </ul>                 
-Beta Testers
+                        </ul>                 Beta Testers
 
 Contribute? [Be a beta tester](http://tsrf.epageant.x10.bz)
 
