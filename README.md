@@ -14,6 +14,10 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/is
 ### Contributors
 Here are the developers and testers who have contributed to this project.
 
+Officer in Charge
+
+* [Joey V.  Casim](https://www.facebook.com)
+
 Developer
 
 * [Isaac](https://www.facebook.com/isaacdarcilla)
@@ -74,3 +78,13 @@ Version 0.3.0
 * Released on May 12, 2019
 * Added Documentation page
 * Added a feature: Holiday notification and reminder added
+
+Version 0.3.2
+* Released on May 20, 2019
+* Fix the button when submitting
+* Added a feature: Added Annual Requests Graph in reports for visualization
+* Added a feature: You can now change the graph type to line, bar, step or spline
+* Administrator can now view annual total requests
+* Added a feature: Employee who logged in for the first time can now setup their own account
+* Redesigned the Profile page of the employee
+* Employees can now view the documentation
