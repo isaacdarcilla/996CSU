@@ -89,6 +89,7 @@ Version 0.3.2
 * Redesigned the Profile page of the employee
 * Employees can now view the documentation
 * Administrator can now filter data by year and ensure the website loads fast
+* Administrator can now filter their response by months
 
 ### Bug Hunting
 
