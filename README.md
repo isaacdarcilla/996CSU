@@ -88,3 +88,8 @@ Version 0.3.2
 * Added a feature: Employee who logged in for the first time can now setup their own account
 * Redesigned the Profile page of the employee
 * Employees can now view the documentation
+* Administrator can now filter data by year and ensure the website loads fast
+
+### Bug Hunting
+
+Contribute? [Be a beta tester](http://tsrf.epageant.x10.bz)
