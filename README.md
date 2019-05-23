@@ -94,6 +94,11 @@ Version 0.3.3
 * Fix bugs in View Mode
 * Optimized select option in Employee page
 
+Version 0.3.4 (latest)
+* Released on May 23, 2019
+* Added timer in the Admin page
+* Fixed the bugs in Datatable in which ordering is not working
+
 ### Bug Hunting
 
 Contribute? [Be a beta tester](http://tsrf.epageant.x10.bz)
