@@ -7,20 +7,16 @@ We’ve created this admin panel for everyone who wants to create request for te
 
 ![SS](https://github.com/isaacdarcilla/SYSCSU/blob/master/Capture.PNG)
 
-Bugs and feature requests
-
-Have a bug or a feature request? [Please open a new issue](https://github.com/isaacdarcilla/SYSCSU/issues/new)
-
 ### Contributors
 Here are the developers and testers who have contributed to this project.
 
 Officer in Charge
 
-* [Joey V.  Casim](https://www.facebook.com)
+* [Joey V.  Casim](https://www.facebook.com)—Officer in Charge at Management Information Services
 
 Developer
 
-* [Isaac](https://www.facebook.com/isaacdarcilla)
+* [Isaac](https://www.facebook.com/isaacdarcilla)—College of Engineering, Department of Computer Engineering
 
 Penetration Testers & Quality Assurance
                         <ul>
@@ -87,9 +83,16 @@ Version 0.3.2
 * Administrator can now view annual total requests
 * Added a feature: Employee who logged in for the first time can now setup their own account
 * Redesigned the Profile page of the employee
+
+Version 0.3.3
+* Released on May 22, 2019
 * Employees can now view the documentation
 * Administrator can now filter data by year and ensure the website loads fast
 * Administrator can now filter their response by months
+* Updated the links
+* Fix bugs in linking
+* Fix bugs in View Mode
+* Optimized select option in Employee page
 
 ### Bug Hunting
 
