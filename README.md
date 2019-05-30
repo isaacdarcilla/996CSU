@@ -8,6 +8,10 @@ Technical Support System developed under MIS
 
 We’ve created this admin panel for everyone who wants to create request for technical support. Our mission is to deliver a user-friendly, clear and easy-to-use system, that can be used by both, MIS Officers and employees of Catanduanes State University. The only requirement is a basic computer knowledge—as a reward, you’ll be able to manage and visualize different types of data in the easiest possible way!
 
+### Acknowledgement
+
+This project was documented, designed and developed by <a href="https://facebook.com/isaacdarcilla">Isaac</a> as part of his internship at Management Information Services in year 2019.
+
 ![SS](https://github.com/isaacdarcilla/SYSCSU/blob/master/Capture.PNG)
 
 ### Contributors
@@ -31,9 +35,14 @@ Penetration Testers & Quality Assurance
                           <li><a href="https://www.facebook.com/pajares.rickyboy?refid=18&__tn__=R">Ricky Martija Pajares</a>—reported a SQL Injection insecurity in the text/output fields.</li>
                           <li><a href="https://www.facebook.com/lazydeveloper.ph?refid=18&__tn__=R">先輩 悲しい</a>—reported XSS vulnerability and suggest a solution using <code>htmlentities()</code>.</li>
                           <li><a href="https://www.facebook.com/kenneth.regalado?refid=18&__tn__=R">Kenneth Regalado</a>—help suggest changes in the Password Reset page to minimize upto 8 characters.</li>
-                        </ul>                 Beta Testers
+                        </ul>                 
+                        
+### Bugs & Feature Request
 
-Contribute? [Be a beta tester](http://tsrf.epageant.x10.bz)
+**Bug #01** (Reported April 23, 2019) Bug in the datatable not compatible with the Javascript. <br>
+**Bug #02** (Reported May 26, 2019) Firefox Browser version 33+ not currently supported. <br> 
+**Feature #01** (Reported May 14, 2019) Recommends realtime notification module for the Administrator.<br> 
+**Feature #02** (Reported May 20, 2019) Recommends activity logging in the system for auditing. 
 
 ### Software Changes & Updates
 
@@ -97,10 +106,28 @@ Version 0.3.3
 * Fix bugs in View Mode
 * Optimized select option in Employee page
 
-Version 0.3.4 (latest)
+Version 0.3.4 
 * Released on May 23, 2019
 * Added timer in the Admin page
 * Fixed the bugs in Datatable in which ordering is not working
+
+Version 0.3.6
+* Released on May 27, 2019
+* Added a feature: Employee can now log in using their usernames
+* Added a feature: Employee can see setup guides in the Account Setup
+* Added a feature: Employee can now update their user profile settings
+* Fix bugs in the setup page and optimized user data input
+* Change the session encryption to PASSWORD_BCRYPT hash
+
+Version 0.3.8 (latest) 
+* Released on May 31, 2019
+* Added a feature: **Night Mode**
+* Added a feature: Employee can only update their account in every 60 days
+* Added a feature: Super admin privelege can now add new administrators
+* Added a feature: Super admin privelege can now add new employees
+* Added a feature: Administrator can now update their accounts
+* Redesigned the My Profile modal and added an Edit Profile button
+* Fix bugs in the graph and grid view link
 
 ### Bug Hunting
 
